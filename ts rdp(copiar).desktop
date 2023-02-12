@@ -1,9 +1,0 @@
-[Desktop Entry]
-Comment=
-Exec=/home/Nilsonlinux/nprog/start_menu.sh
-Icon=/home/Nilsonlinux/nprog/nprog.svg
-Name=teste
-Name[pt_BR]=Nprog
-Terminal=false
-Type=Application
-X-Deepin-Vendor=user-custom
