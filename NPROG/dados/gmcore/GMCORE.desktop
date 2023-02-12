@@ -1,9 +1,0 @@
-#!/usr/bin/env xdg-open
-
-[Desktop Entry]
-Name=GMCORE
-Exec=rdesktop -u ts -p ts ts.mateus -g 1920x1080 -T GMCORE
-Comment=
-Terminal=false
-Icon=/home/Nilsonlinux/.icons/GMCORE.png
-Type=Application
